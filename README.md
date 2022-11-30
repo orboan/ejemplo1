@@ -2,6 +2,6 @@
 
 Estamos viendo **ejemplos** sencillos.
 
-Hoy es martes.
+Hoy es miércoles.
 
-La classe de hoy es sobre git.
+La classe de hoy, también, es sobre git y github.
