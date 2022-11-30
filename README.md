@@ -1,6 +1,6 @@
 # Ejemplo 1 de git 
 
-Estamos viendo **ejemplos** sencillos.
+Estamos viendo **ejemplos** sencillos de git y github.
 
 Hoy es miércoles.
 
