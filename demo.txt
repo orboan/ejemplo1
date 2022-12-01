@@ -5,3 +5,5 @@ Fichero actualizado
 Nueva actualización para testear el pull
 
 Una actualización más, todavía
+
+Hoy terminamos git y empezamos scrum.
