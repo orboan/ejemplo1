@@ -2,6 +2,7 @@
 
 Estamos viendo **ejemplos** sencillos de git y github.
 
-Hoy es miércoles.
+Hoy es jueves.
 
-La classe de hoy, también, es sobre git y github.
+En la classe de hoy acabaremos git y empezamos scrum.
+
